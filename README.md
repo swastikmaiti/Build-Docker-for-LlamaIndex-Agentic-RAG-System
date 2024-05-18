@@ -28,7 +28,7 @@ implementation of AGENTIC-RAG refer to the provided repo.
 Docker image for AGENTIC-RAG Gradio App
 ```
 git clone https://github.com/swastikmaiti/AGENTIC-RAG-DOCKER.git
-cd Dockerfile
+cd Docker_Compose
 docker compose up
 ```
 
