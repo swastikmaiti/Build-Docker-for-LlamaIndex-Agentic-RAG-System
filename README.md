@@ -32,3 +32,5 @@ cd Dockerfile
 docker compose up
 ```
 
+# Acknowledgement
+- Thanks to Docker Hub for wonderful documentation on GenAI containerization. [Chekout their docs](https://docs.docker.com/guides/use-case/genai-pdf-bot)
