@@ -8,6 +8,10 @@ This repo explains the docker implementation of AGENTIC-RAG with Gradio and Olla
 The docker is build based on Work from [THIS REPO](https://github.com/swastikmaiti/AGENTIC-RAG.git). Here we only describe the docker framework. For detail
 implementation of AGENTIC-RAG refer to the provided repo.
 
+# Docker Architecture
+
+![alt text](https://github.com/swastikmaiti/AGENTIC-RAG-DOCKER/blob/baa956f3792ed16033e2db990be853e9c3141b97/docker-architecture-1.png)
+
 # File descrition
 - Dockerfile: This dockerfile build image of our AGENTIC-RAG implemeted with Gradio App
 - compose.yaml: The compose file is required as we need to start various services(container) for our System to Work.
